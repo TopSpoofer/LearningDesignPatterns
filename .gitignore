@@ -6,7 +6,7 @@
 .idea
 .gradle
 build/
-#out
+out
 gen
 target
 *.iml
