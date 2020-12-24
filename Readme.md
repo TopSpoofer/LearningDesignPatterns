@@ -32,4 +32,5 @@
 10. [责任链模式](./src/me/spoofer/responsibility/doc/responsibility.md)
 11. [桥接模式](./src/me/spoofer/bridge/doc/bridge.md)
 12. [建造者模式](./src/me/spoofer/builder/doc/builder.md)
+13. [过滤器模式](./src/me/spoofer/criteria/doc/criteria.md)
 
