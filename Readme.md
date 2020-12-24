@@ -30,4 +30,5 @@
 8. [外观模式](./src/me/spoofer/facade/doc/facade.md)
 9. [模板模式](./src/me/spoofer/template/doc/template.md)
 10. [责任链模式](./src/me/spoofer/responsibility/doc/responsibility.md)
+11. [桥接模式](./src/me/spoofer/bridge/doc/bridge.md)
 
